@@ -56,8 +56,7 @@ I like
 
 [Telegram]: https://t.me/GirichevVasiliy
 [HH]: https://tyumen.hh.ru/resume/97927d31ff0b5cb5380039ed1f466543367038
-[Sofa]: https://t.me/SOFa_invest_bot
-[EnglishPhraseOfTheDayBot]: https://t.me/EnglishPhraseOfTheDayBot
+[Web]:(https://www.automatesoft.ru/)
 [VK]: https://vk.com/v.girichev
 
 
