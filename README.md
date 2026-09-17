@@ -37,10 +37,7 @@ I like
 
 ---
 ### My projects:
-[<img align="left" alt="Telegram" width="50px" src="https://github.com/GirichevVasiliy/GirichevVasiliy/assets/106555170/d900207b-4afb-47a6-ba7e-726601f447fd" />][Sofa]
-[<img align="left" alt="Telegram" width="50px" src="https://github.com/user-attachments/assets/e70e3437-609c-4c21-ae90-e30943e28bb0" />][EnglishPhraseOfTheDayBot]
-<br />
-<br />
+:computer: www.automatesoft.ru
 <br />
 
 ---
@@ -56,7 +53,7 @@ I like
 
 [Telegram]: https://t.me/GirichevVasiliy
 [HH]: https://tyumen.hh.ru/resume/97927d31ff0b5cb5380039ed1f466543367038
-[Web]:(https://www.automatesoft.ru/)
+[Web]:https://www.automatesoft.ru
 [VK]: https://vk.com/v.girichev
 
 
